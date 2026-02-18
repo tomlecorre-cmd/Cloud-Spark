@@ -55,5 +55,5 @@ Nous avons entraîné une Intelligence Artificielle (Régression Logistique) pou
 ## 📂 Structure du Repository
 ```text
 ├── Projet_Cloud.ipynb      # Le Notebook complet (Code commenté étape par étape)
-├── Online_Retail_CSV.csv   # Le Dataset source (Transactions E-commerce)
+├── cloudspark.pdf          # PPT du projet
 └── README.md               # Documentation du projet
